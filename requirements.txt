@@ -9,3 +9,4 @@ tqdm==4.64.1
 urllib3==1.26.13
 vosk==0.3.44
 websockets==10.4
+PyAudio==0.2.10
